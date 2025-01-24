@@ -16,21 +16,17 @@ int main(){
         int count=0;
         int sum=0;
         int sumall=accumulate(a.begin(),a.end(),0);
-        if(sumall<=km)
-        {
- int k=km/sumall;
- sum=k*sumall;
- count=3*k;
- 
-}
+        if(sumall<=km) {
+            int k=km/sumall;
+            sum=k*sumall;
+            count=3*k;
+        }
         for(int i=0;i<3;i++)
         {
-if(sum>=km)
+            if(sum>=km)
             break;
-
             sum+=a[i];
-            count++;
-                        
+            count++;             
         }
         cout<<count<<endl;
     }
