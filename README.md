@@ -1,5 +1,5 @@
 # Codeforces Solutions  
-Automatically updated on every push.
+
 
 ## Problem List
 
