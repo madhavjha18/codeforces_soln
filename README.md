@@ -1,26 +1,29 @@
-# Codeforces Solutions
-Automatically updated list of solved problems.
+# Codeforces Solutions  
+Automatically updated on every push.
 
-## Problems
-- `112A.cpp`
-- `1935A.cpp`
-- `1980B.cpp`
-- `1985A.cpp`
-- `2036A.cpp`
-- `2037A.cpp`
-- `2044B.cpp`
-- `2044C.cpp`
-- `2050A.cpp`
-- `2051A.cpp`
-- `2051B.cpp`
-- `2057A.cpp`
-- `2060A.cpp`
-- `2060C.cpp`
-- `2061A.cpp`
-- `236A.cpp`
-- `281A.cpp`
-- `299B.cpp`
-- `339A.cpp`
-- `71A.cpp`
-- `847G.cpp`
-- `B_Your_Name.cpp`
+## Problem List
+
+| S.No | Problem | Solution | Problem Link |
+|------|----------|-----------|--------------|
+| 1 | 112A | [112A.cpp](112A.cpp) | [https://codeforces.com/problemset/problem/112/A](https://codeforces.com/problemset/problem/112/A) |
+| 2 | 1935A | [1935A.cpp](1935A.cpp) | [https://codeforces.com/problemset/problem/1935/A](https://codeforces.com/problemset/problem/1935/A) |
+| 3 | 1980B | [1980B.cpp](1980B.cpp) | [https://codeforces.com/problemset/problem/1980/B](https://codeforces.com/problemset/problem/1980/B) |
+| 4 | 1985A | [1985A.cpp](1985A.cpp) | [https://codeforces.com/problemset/problem/1985/A](https://codeforces.com/problemset/problem/1985/A) |
+| 5 | 2036A | [2036A.cpp](2036A.cpp) | [https://codeforces.com/problemset/problem/2036/A](https://codeforces.com/problemset/problem/2036/A) |
+| 6 | 2037A | [2037A.cpp](2037A.cpp) | [https://codeforces.com/problemset/problem/2037/A](https://codeforces.com/problemset/problem/2037/A) |
+| 7 | 2044B | [2044B.cpp](2044B.cpp) | [https://codeforces.com/problemset/problem/2044/B](https://codeforces.com/problemset/problem/2044/B) |
+| 8 | 2044C | [2044C.cpp](2044C.cpp) | [https://codeforces.com/problemset/problem/2044/C](https://codeforces.com/problemset/problem/2044/C) |
+| 9 | 2050A | [2050A.cpp](2050A.cpp) | [https://codeforces.com/problemset/problem/2050/A](https://codeforces.com/problemset/problem/2050/A) |
+| 10 | 2051A | [2051A.cpp](2051A.cpp) | [https://codeforces.com/problemset/problem/2051/A](https://codeforces.com/problemset/problem/2051/A) |
+| 11 | 2051B | [2051B.cpp](2051B.cpp) | [https://codeforces.com/problemset/problem/2051/B](https://codeforces.com/problemset/problem/2051/B) |
+| 12 | 2057A | [2057A.cpp](2057A.cpp) | [https://codeforces.com/problemset/problem/2057/A](https://codeforces.com/problemset/problem/2057/A) |
+| 13 | 2060A | [2060A.cpp](2060A.cpp) | [https://codeforces.com/problemset/problem/2060/A](https://codeforces.com/problemset/problem/2060/A) |
+| 14 | 2060C | [2060C.cpp](2060C.cpp) | [https://codeforces.com/problemset/problem/2060/C](https://codeforces.com/problemset/problem/2060/C) |
+| 15 | 2061A | [2061A.cpp](2061A.cpp) | [https://codeforces.com/problemset/problem/2061/A](https://codeforces.com/problemset/problem/2061/A) |
+| 16 | 236A | [236A.cpp](236A.cpp) | [https://codeforces.com/problemset/problem/236/A](https://codeforces.com/problemset/problem/236/A) |
+| 17 | 281A | [281A.cpp](281A.cpp) | [https://codeforces.com/problemset/problem/281/A](https://codeforces.com/problemset/problem/281/A) |
+| 18 | 299B | [299B.cpp](299B.cpp) | [https://codeforces.com/problemset/problem/299/B](https://codeforces.com/problemset/problem/299/B) |
+| 19 | 339A | [339A.cpp](339A.cpp) | [https://codeforces.com/problemset/problem/339/A](https://codeforces.com/problemset/problem/339/A) |
+| 20 | 71A | [71A.cpp](71A.cpp) | [https://codeforces.com/problemset/problem/71/A](https://codeforces.com/problemset/problem/71/A) |
+| 21 | 847G | [847G.cpp](847G.cpp) | [https://codeforces.com/problemset/problem/847/G](https://codeforces.com/problemset/problem/847/G) |
+| 22 | B_Your_Name | [B_Your_Name.cpp](B_Your_Name.cpp) | [N/A](N/A) |
