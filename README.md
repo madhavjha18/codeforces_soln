@@ -1,4 +1,6 @@
 # Codeforces Solutions
+![Codeforces Rating](https://img.shields.io/badge/Codeforces-<your_handle>-blue?logo=codeforces)
+
 
 Here are my solved Codeforces problems, with links to the problems and my solutions.
 
