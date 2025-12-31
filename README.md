@@ -25,5 +25,6 @@
 | 18 | 281A | [281A.cpp](281A.cpp) | [https://codeforces.com/problemset/problem/281/A](https://codeforces.com/problemset/problem/281/A) |
 | 19 | 299B | [299B.cpp](299B.cpp) | [https://codeforces.com/problemset/problem/299/B](https://codeforces.com/problemset/problem/299/B) |
 | 20 | 339A | [339A.cpp](339A.cpp) | [https://codeforces.com/problemset/problem/339/A](https://codeforces.com/problemset/problem/339/A) |
-| 21 | 71A | [71A.cpp](71A.cpp) | [https://codeforces.com/problemset/problem/71/A](https://codeforces.com/problemset/problem/71/A) |
-| 22 | 847G | [847G.cpp](847G.cpp) | [https://codeforces.com/problemset/problem/847/G](https://codeforces.com/problemset/problem/847/G) |
+| 21 | 546A | [546A.cpp](546A.cpp) | [https://codeforces.com/problemset/problem/546/A](https://codeforces.com/problemset/problem/546/A) |
+| 22 | 71A | [71A.cpp](71A.cpp) | [https://codeforces.com/problemset/problem/71/A](https://codeforces.com/problemset/problem/71/A) |
+| 23 | 847G | [847G.cpp](847G.cpp) | [https://codeforces.com/problemset/problem/847/G](https://codeforces.com/problemset/problem/847/G) |
