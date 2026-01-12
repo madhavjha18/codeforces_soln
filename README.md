@@ -43,3 +43,4 @@
 | 36 | 546A | [546A.cpp](546A.cpp) | [https://codeforces.com/problemset/problem/546/A](https://codeforces.com/problemset/problem/546/A) |
 | 37 | 71A | [71A.cpp](71A.cpp) | [https://codeforces.com/problemset/problem/71/A](https://codeforces.com/problemset/problem/71/A) |
 | 38 | 847G | [847G.cpp](847G.cpp) | [https://codeforces.com/problemset/problem/847/G](https://codeforces.com/problemset/problem/847/G) |
+| 39 | 996A | [996A.cpp](996A.cpp) | [https://codeforces.com/problemset/problem/996/A](https://codeforces.com/problemset/problem/996/A) |
